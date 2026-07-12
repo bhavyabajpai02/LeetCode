@@ -47,6 +47,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0138-copy-list-with-random-pointer](https://github.com/bhavyabajpai02/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/bhavyabajpai02/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,6 +124,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/bhavyabajpai02/LeetCode/tree/master/0054-spiral-matrix) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/bhavyabajpai02/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Sliding Window
 |  |
 | ------- |
