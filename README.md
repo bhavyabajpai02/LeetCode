@@ -6,6 +6,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0135-candy](https://github.com/bhavyabajpai02/LeetCode/tree/master/0135-candy) |
 | [1331-rank-transform-of-an-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Greedy
@@ -20,4 +21,8 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
