@@ -7,6 +7,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/bhavyabajpai02/LeetCode/tree/master/0049-group-anagrams) |
 | [0135-candy](https://github.com/bhavyabajpai02/LeetCode/tree/master/0135-candy) |
 | [0216-combination-sum-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0216-combination-sum-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -17,11 +18,13 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/bhavyabajpai02/LeetCode/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/bhavyabajpai02/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [1331-rank-transform-of-an-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/bhavyabajpai02/LeetCode/tree/master/0049-group-anagrams) |
 | [1331-rank-transform-of-an-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Backtracking
 |  |
@@ -84,4 +87,8 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/bhavyabajpai02/LeetCode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
