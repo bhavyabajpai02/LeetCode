@@ -56,6 +56,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0337-house-robber-iii) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhavyabajpai02/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/bhavyabajpai02/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/bhavyabajpai02/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
@@ -65,6 +66,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0337-house-robber-iii) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhavyabajpai02/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/bhavyabajpai02/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/bhavyabajpai02/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
@@ -74,6 +76,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0337-house-robber-iii) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhavyabajpai02/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/bhavyabajpai02/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/bhavyabajpai02/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
