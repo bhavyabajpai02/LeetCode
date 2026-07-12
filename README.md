@@ -113,6 +113,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/bhavyabajpai02/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/bhavyabajpai02/LeetCode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/bhavyabajpai02/LeetCode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/bhavyabajpai02/LeetCode/tree/master/0402-remove-k-digits) |
@@ -123,6 +124,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/bhavyabajpai02/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/bhavyabajpai02/LeetCode/tree/master/0054-spiral-matrix) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/bhavyabajpai02/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Sliding Window
@@ -137,4 +139,8 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/bhavyabajpai02/LeetCode/tree/master/0402-remove-k-digits) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/bhavyabajpai02/LeetCode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
