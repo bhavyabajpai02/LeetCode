@@ -31,12 +31,14 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/bhavyabajpai02/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/bhavyabajpai02/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Dynamic Programming
 |  |
