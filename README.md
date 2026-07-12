@@ -31,6 +31,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bhavyabajpai02/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/bhavyabajpai02/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
@@ -69,4 +70,8 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/bhavyabajpai02/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bhavyabajpai02/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
