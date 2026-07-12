@@ -15,8 +15,10 @@ public:
         //     }
         //     rank++;
         // }
-        // return res;     
-
+        // return res;  
+        // tc = (nlogn)
+        // sc = (n)   
+        // 2nd approach
         map<int,int>mp;
         for(auto& i:arr){
             mp[i];
