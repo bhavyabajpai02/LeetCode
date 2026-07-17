@@ -66,6 +66,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/bhavyabajpai02/LeetCode/tree/master/0062-unique-paths) |
 | [0337-house-robber-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0337-house-robber-iii) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/bhavyabajpai02/LeetCode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 ## Tree
@@ -163,4 +164,9 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhavyabajpai02/LeetCode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/bhavyabajpai02/LeetCode/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/bhavyabajpai02/LeetCode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/bhavyabajpai02/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
