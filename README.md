@@ -82,6 +82,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/bhavyabajpai02/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -96,6 +97,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/bhavyabajpai02/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -110,6 +112,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/bhavyabajpai02/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
