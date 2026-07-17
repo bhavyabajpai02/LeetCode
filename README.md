@@ -13,6 +13,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0135-candy](https://github.com/bhavyabajpai02/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/bhavyabajpai02/LeetCode/tree/master/0179-largest-number) |
 | [0216-combination-sum-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0220-contains-duplicate-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0875-koko-eating-bananas](https://github.com/bhavyabajpai02/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1331-rank-transform-of-an-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/bhavyabajpai02/LeetCode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
@@ -37,6 +38,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | ------- |
 | [0049-group-anagrams](https://github.com/bhavyabajpai02/LeetCode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/bhavyabajpai02/LeetCode/tree/master/0179-largest-number) |
+| [0220-contains-duplicate-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Backtracking
@@ -150,6 +152,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## Sliding Window
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Binary Search
 |  |
@@ -169,4 +172,12 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/bhavyabajpai02/LeetCode/tree/master/0062-unique-paths) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
