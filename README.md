@@ -8,6 +8,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | ------- |
 | [0040-combination-sum-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/bhavyabajpai02/LeetCode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/bhavyabajpai02/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/bhavyabajpai02/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/bhavyabajpai02/LeetCode/tree/master/0054-spiral-matrix) |
 | [0135-candy](https://github.com/bhavyabajpai02/LeetCode/tree/master/0135-candy) |
@@ -62,12 +63,14 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/bhavyabajpai02/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/bhavyabajpai02/LeetCode/tree/master/0141-linked-list-cycle) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bhavyabajpai02/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/bhavyabajpai02/LeetCode/tree/master/0062-unique-paths) |
 | [0337-house-robber-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0337-house-robber-iii) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/bhavyabajpai02/LeetCode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
@@ -129,6 +132,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bhavyabajpai02/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0402-remove-k-digits](https://github.com/bhavyabajpai02/LeetCode/tree/master/0402-remove-k-digits) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -161,6 +165,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bhavyabajpai02/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/bhavyabajpai02/LeetCode/tree/master/0402-remove-k-digits) |
 ## Math
 |  |
