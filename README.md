@@ -139,6 +139,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/bhavyabajpai02/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bhavyabajpai02/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -148,6 +149,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/bhavyabajpai02/LeetCode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/bhavyabajpai02/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/bhavyabajpai02/LeetCode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/bhavyabajpai02/LeetCode/tree/master/0179-largest-number) |
