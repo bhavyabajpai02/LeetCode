@@ -20,6 +20,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0875-koko-eating-bananas](https://github.com/bhavyabajpai02/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1331-rank-transform-of-an-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/bhavyabajpai02/LeetCode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/bhavyabajpai02/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Greedy
 |  |
@@ -162,12 +163,14 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0179-largest-number](https://github.com/bhavyabajpai02/LeetCode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/bhavyabajpai02/LeetCode/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhavyabajpai02/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/bhavyabajpai02/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/bhavyabajpai02/LeetCode/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/bhavyabajpai02/LeetCode/tree/master/0130-surrounded-regions) |
 | [0289-game-of-life](https://github.com/bhavyabajpai02/LeetCode/tree/master/0289-game-of-life) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/bhavyabajpai02/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Simulation
 |  |
 | ------- |
@@ -195,6 +198,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0002-add-two-numbers](https://github.com/bhavyabajpai02/LeetCode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/bhavyabajpai02/LeetCode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/bhavyabajpai02/LeetCode/tree/master/0062-unique-paths) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/bhavyabajpai02/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhavyabajpai02/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Combinatorics
 |  |
