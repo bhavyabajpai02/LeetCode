@@ -16,6 +16,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0179-largest-number](https://github.com/bhavyabajpai02/LeetCode/tree/master/0179-largest-number) |
 | [0216-combination-sum-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0220-contains-duplicate-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0220-contains-duplicate-iii) |
+| [0289-game-of-life](https://github.com/bhavyabajpai02/LeetCode/tree/master/0289-game-of-life) |
 | [0875-koko-eating-bananas](https://github.com/bhavyabajpai02/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1331-rank-transform-of-an-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/bhavyabajpai02/LeetCode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
@@ -166,11 +167,13 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | ------- |
 | [0054-spiral-matrix](https://github.com/bhavyabajpai02/LeetCode/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/bhavyabajpai02/LeetCode/tree/master/0130-surrounded-regions) |
+| [0289-game-of-life](https://github.com/bhavyabajpai02/LeetCode/tree/master/0289-game-of-life) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/bhavyabajpai02/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/bhavyabajpai02/LeetCode/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/bhavyabajpai02/LeetCode/tree/master/0289-game-of-life) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/bhavyabajpai02/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Sliding Window
 |  |
