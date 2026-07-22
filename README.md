@@ -9,6 +9,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0040-combination-sum-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/bhavyabajpai02/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/bhavyabajpai02/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/bhavyabajpai02/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/bhavyabajpai02/LeetCode/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhavyabajpai02/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -27,6 +28,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/bhavyabajpai02/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/bhavyabajpai02/LeetCode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/bhavyabajpai02/LeetCode/tree/master/0402-remove-k-digits) |
@@ -83,6 +85,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhavyabajpai02/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/bhavyabajpai02/LeetCode/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/bhavyabajpai02/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0337-house-robber-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0337-house-robber-iii) |
