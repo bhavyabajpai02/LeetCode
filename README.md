@@ -20,6 +20,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0216-combination-sum-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0220-contains-duplicate-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0289-game-of-life](https://github.com/bhavyabajpai02/LeetCode/tree/master/0289-game-of-life) |
+| [0506-relative-ranks](https://github.com/bhavyabajpai02/LeetCode/tree/master/0506-relative-ranks) |
 | [0622-design-circular-queue](https://github.com/bhavyabajpai02/LeetCode/tree/master/0622-design-circular-queue) |
 | [0875-koko-eating-bananas](https://github.com/bhavyabajpai02/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1331-rank-transform-of-an-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -52,6 +53,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0148-sort-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/bhavyabajpai02/LeetCode/tree/master/0179-largest-number) |
 | [0220-contains-duplicate-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0220-contains-duplicate-iii) |
+| [0506-relative-ranks](https://github.com/bhavyabajpai02/LeetCode/tree/master/0506-relative-ranks) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Backtracking
@@ -260,4 +262,8 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/bhavyabajpai02/LeetCode/tree/master/0622-design-circular-queue) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/bhavyabajpai02/LeetCode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
