@@ -6,6 +6,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/bhavyabajpai02/LeetCode/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/bhavyabajpai02/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/bhavyabajpai02/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -82,6 +83,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/bhavyabajpai02/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/bhavyabajpai02/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/bhavyabajpai02/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0148-sort-list) |
