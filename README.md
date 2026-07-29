@@ -104,6 +104,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0045-jump-game-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/bhavyabajpai02/LeetCode/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/bhavyabajpai02/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/bhavyabajpai02/LeetCode/tree/master/0091-decode-ways) |
 | [0337-house-robber-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/bhavyabajpai02/LeetCode/tree/master/0392-is-subsequence) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/bhavyabajpai02/LeetCode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
@@ -193,6 +194,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0020-valid-parentheses](https://github.com/bhavyabajpai02/LeetCode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/bhavyabajpai02/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/bhavyabajpai02/LeetCode/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/bhavyabajpai02/LeetCode/tree/master/0091-decode-ways) |
 | [0179-largest-number](https://github.com/bhavyabajpai02/LeetCode/tree/master/0179-largest-number) |
 | [0392-is-subsequence](https://github.com/bhavyabajpai02/LeetCode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/bhavyabajpai02/LeetCode/tree/master/0402-remove-k-digits) |
