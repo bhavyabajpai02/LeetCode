@@ -26,6 +26,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0622-design-circular-queue](https://github.com/bhavyabajpai02/LeetCode/tree/master/0622-design-circular-queue) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/bhavyabajpai02/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0875-koko-eating-bananas](https://github.com/bhavyabajpai02/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1110-delete-nodes-and-return-forest](https://github.com/bhavyabajpai02/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/bhavyabajpai02/LeetCode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
@@ -50,6 +51,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0138-copy-list-with-random-pointer](https://github.com/bhavyabajpai02/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/bhavyabajpai02/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/bhavyabajpai02/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
@@ -117,6 +119,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0979-distribute-coins-in-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhavyabajpai02/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1110-delete-nodes-and-return-forest](https://github.com/bhavyabajpai02/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/bhavyabajpai02/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/bhavyabajpai02/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -134,6 +137,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0979-distribute-coins-in-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhavyabajpai02/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1110-delete-nodes-and-return-forest](https://github.com/bhavyabajpai02/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/bhavyabajpai02/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/bhavyabajpai02/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -150,6 +154,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0979-distribute-coins-in-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhavyabajpai02/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1110-delete-nodes-and-return-forest](https://github.com/bhavyabajpai02/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/bhavyabajpai02/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/bhavyabajpai02/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
