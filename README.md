@@ -112,6 +112,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bhavyabajpai02/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -130,6 +131,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/bhavyabajpai02/LeetCode/tree/master/0130-surrounded-regions) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -148,6 +150,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bhavyabajpai02/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -166,6 +169,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bhavyabajpai02/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/bhavyabajpai02/LeetCode/tree/master/0130-surrounded-regions) |
 | [0617-merge-two-binary-trees](https://github.com/bhavyabajpai02/LeetCode/tree/master/0617-merge-two-binary-trees) |
