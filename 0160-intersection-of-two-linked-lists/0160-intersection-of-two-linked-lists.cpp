@@ -8,19 +8,19 @@
  */
 class Solution {
 public:
-bool check(ListNode *headA, ListNode *headB){
-    ListNode* ptr1 = headA;
-    ListNode* ptr2 = headB;
-    while(ptr1 and ptr2){
-        if(ptr1 != ptr2){
-            return false;
-        }
-        ptr1 = ptr1->next;
-        ptr2 = ptr2->next;
-    }
-    return true;
-}
-int intersectionVal=0,skipA=0,skipB=0;
+// bool check(ListNode *headA, ListNode *headB){
+//     ListNode* ptr1 = headA;
+//     ListNode* ptr2 = headB;
+//     while(ptr1 and ptr2){
+//         if(ptr1 != ptr2){
+//             return false;
+//         }
+//         ptr1 = ptr1->next;
+//         ptr2 = ptr2->next;
+//     }
+//     return true;
+// }
+// int intersectionVal=0,skipA=0,skipB=0;
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
     //    ListNode* ptr1 = headA;
     //    ListNode* ptr2 = headB;
@@ -77,6 +77,7 @@ int intersectionVal=0,skipA=0,skipB=0;
     // }
     // return ptr1;
 
+    // #Approch 3
     ListNode* ptr1 = headA,*ptr2 = headB;
     int len1 = 0 ,len2 = 0;
     while(ptr1){
