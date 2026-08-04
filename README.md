@@ -26,6 +26,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0506-relative-ranks](https://github.com/bhavyabajpai02/LeetCode/tree/master/0506-relative-ranks) |
 | [0622-design-circular-queue](https://github.com/bhavyabajpai02/LeetCode/tree/master/0622-design-circular-queue) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/bhavyabajpai02/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0792-number-of-matching-subsequences](https://github.com/bhavyabajpai02/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/bhavyabajpai02/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1110-delete-nodes-and-return-forest](https://github.com/bhavyabajpai02/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1260-shift-2d-grid](https://github.com/bhavyabajpai02/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -54,6 +55,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0138-copy-list-with-random-pointer](https://github.com/bhavyabajpai02/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/bhavyabajpai02/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhavyabajpai02/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0792-number-of-matching-subsequences](https://github.com/bhavyabajpai02/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/bhavyabajpai02/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -66,6 +68,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0179-largest-number](https://github.com/bhavyabajpai02/LeetCode/tree/master/0179-largest-number) |
 | [0220-contains-duplicate-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0506-relative-ranks](https://github.com/bhavyabajpai02/LeetCode/tree/master/0506-relative-ranks) |
+| [0792-number-of-matching-subsequences](https://github.com/bhavyabajpai02/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -116,6 +119,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0322-coin-change](https://github.com/bhavyabajpai02/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/bhavyabajpai02/LeetCode/tree/master/0392-is-subsequence) |
+| [0792-number-of-matching-subsequences](https://github.com/bhavyabajpai02/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/bhavyabajpai02/LeetCode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 ## Tree
 |  |
@@ -220,6 +224,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0392-is-subsequence](https://github.com/bhavyabajpai02/LeetCode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/bhavyabajpai02/LeetCode/tree/master/0402-remove-k-digits) |
 | [0606-construct-string-from-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
+| [0792-number-of-matching-subsequences](https://github.com/bhavyabajpai02/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhavyabajpai02/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavyabajpai02/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/bhavyabajpai02/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -249,6 +254,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## Binary Search
 |  |
 | ------- |
+| [0792-number-of-matching-subsequences](https://github.com/bhavyabajpai02/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/bhavyabajpai02/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Monotonic Stack
 |  |
@@ -311,4 +317,8 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/bhavyabajpai02/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Trie
+|  |
+| ------- |
+| [0792-number-of-matching-subsequences](https://github.com/bhavyabajpai02/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 <!---LeetCode Topics End-->
