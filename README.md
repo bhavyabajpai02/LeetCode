@@ -86,6 +86,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/bhavyabajpai02/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/bhavyabajpai02/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/bhavyabajpai02/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/bhavyabajpai02/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0148-sort-list) |
@@ -129,6 +130,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0100-same-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bhavyabajpai02/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/bhavyabajpai02/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/bhavyabajpai02/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0337-house-robber-iii) |
@@ -148,6 +150,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | ------- |
 | [0100-same-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/bhavyabajpai02/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/bhavyabajpai02/LeetCode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/bhavyabajpai02/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -169,6 +172,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0100-same-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bhavyabajpai02/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/bhavyabajpai02/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/bhavyabajpai02/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0337-house-robber-iii) |
@@ -188,6 +192,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | ------- |
 | [0100-same-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bhavyabajpai02/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/bhavyabajpai02/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/bhavyabajpai02/LeetCode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/bhavyabajpai02/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/bhavyabajpai02/LeetCode/tree/master/0322-coin-change) |
