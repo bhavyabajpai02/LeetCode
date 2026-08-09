@@ -138,6 +138,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | ------- |
 | [0100-same-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bhavyabajpai02/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhavyabajpai02/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bhavyabajpai02/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -159,6 +160,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bhavyabajpai02/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/bhavyabajpai02/LeetCode/tree/master/0130-surrounded-regions) |
@@ -181,6 +183,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | ------- |
 | [0100-same-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bhavyabajpai02/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhavyabajpai02/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bhavyabajpai02/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -203,6 +206,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | ------- |
 | [0100-same-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bhavyabajpai02/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bhavyabajpai02/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/bhavyabajpai02/LeetCode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/bhavyabajpai02/LeetCode/tree/master/0199-binary-tree-right-side-view) |
