@@ -27,6 +27,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0322-coin-change](https://github.com/bhavyabajpai02/LeetCode/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/bhavyabajpai02/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0506-relative-ranks](https://github.com/bhavyabajpai02/LeetCode/tree/master/0506-relative-ranks) |
+| [0540-single-element-in-a-sorted-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/bhavyabajpai02/LeetCode/tree/master/0622-design-circular-queue) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/bhavyabajpai02/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-number-of-matching-subsequences](https://github.com/bhavyabajpai02/LeetCode/tree/master/0792-number-of-matching-subsequences) |
@@ -283,6 +284,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-number-of-matching-subsequences](https://github.com/bhavyabajpai02/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/bhavyabajpai02/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Monotonic Stack
