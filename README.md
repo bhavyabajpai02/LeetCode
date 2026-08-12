@@ -170,6 +170,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/bhavyabajpai02/LeetCode/tree/master/0547-number-of-provinces) |
 | [0606-construct-string-from-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/bhavyabajpai02/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -213,6 +214,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0130-surrounded-regions](https://github.com/bhavyabajpai02/LeetCode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/bhavyabajpai02/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/bhavyabajpai02/LeetCode/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/bhavyabajpai02/LeetCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/bhavyabajpai02/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/bhavyabajpai02/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -323,6 +325,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/bhavyabajpai02/LeetCode/tree/master/0130-surrounded-regions) |
+| [0547-number-of-provinces](https://github.com/bhavyabajpai02/LeetCode/tree/master/0547-number-of-provinces) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -371,4 +374,8 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/bhavyabajpai02/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/bhavyabajpai02/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
