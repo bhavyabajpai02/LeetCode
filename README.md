@@ -14,6 +14,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0045-jump-game-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/bhavyabajpai02/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/bhavyabajpai02/LeetCode/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/bhavyabajpai02/LeetCode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhavyabajpai02/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/bhavyabajpai02/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhavyabajpai02/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -70,6 +71,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/bhavyabajpai02/LeetCode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/bhavyabajpai02/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/bhavyabajpai02/LeetCode/tree/master/0179-largest-number) |
 | [0220-contains-duplicate-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0220-contains-duplicate-iii) |
@@ -112,6 +114,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/bhavyabajpai02/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/bhavyabajpai02/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/bhavyabajpai02/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/bhavyabajpai02/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhavyabajpai02/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -390,4 +393,12 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bhavyabajpai02/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/bhavyabajpai02/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/bhavyabajpai02/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
