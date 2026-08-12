@@ -40,6 +40,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/bhavyabajpai02/LeetCode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/bhavyabajpai02/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [3731-find-missing-elements](https://github.com/bhavyabajpai02/LeetCode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -162,6 +163,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [1448-count-good-nodes-in-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bhavyabajpai02/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -210,6 +212,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [1448-count-good-nodes-in-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bhavyabajpai02/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -389,10 +392,12 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bhavyabajpai02/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bhavyabajpai02/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Quicksort
 |  |
 | ------- |
