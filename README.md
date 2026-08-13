@@ -85,6 +85,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bhavyabajpai02/LeetCode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Linked List
@@ -128,6 +129,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhavyabajpai02/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/bhavyabajpai02/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bhavyabajpai02/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/bhavyabajpai02/LeetCode/tree/master/0062-unique-paths) |
@@ -255,6 +257,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhavyabajpai02/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/bhavyabajpai02/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/bhavyabajpai02/LeetCode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/bhavyabajpai02/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/bhavyabajpai02/LeetCode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/bhavyabajpai02/LeetCode/tree/master/0091-decode-ways) |
@@ -406,4 +409,8 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/bhavyabajpai02/LeetCode/tree/master/0075-sort-colors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/bhavyabajpai02/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
