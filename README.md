@@ -69,6 +69,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/bhavyabajpai02/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhavyabajpai02/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/bhavyabajpai02/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -277,6 +278,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bhavyabajpai02/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/bhavyabajpai02/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/bhavyabajpai02/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhavyabajpai02/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Matrix
 |  |
 | ------- |
@@ -299,6 +301,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhavyabajpai02/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
