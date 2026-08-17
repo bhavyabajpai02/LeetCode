@@ -41,6 +41,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/bhavyabajpai02/LeetCode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/bhavyabajpai02/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/bhavyabajpai02/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [3731-find-missing-elements](https://github.com/bhavyabajpai02/LeetCode/tree/master/3731-find-missing-elements) |
 ## Greedy
@@ -277,6 +278,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavyabajpai02/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bhavyabajpai02/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/bhavyabajpai02/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/bhavyabajpai02/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/bhavyabajpai02/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhavyabajpai02/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Matrix
@@ -424,4 +426,8 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bhavyabajpai02/LeetCode/tree/master/0022-generate-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/bhavyabajpai02/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 <!---LeetCode Topics End-->
