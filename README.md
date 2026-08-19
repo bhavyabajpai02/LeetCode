@@ -122,6 +122,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0027-remove-element](https://github.com/bhavyabajpai02/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/bhavyabajpai02/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/bhavyabajpai02/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/bhavyabajpai02/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/bhavyabajpai02/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhavyabajpai02/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -266,6 +267,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0043-multiply-strings](https://github.com/bhavyabajpai02/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/bhavyabajpai02/LeetCode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/bhavyabajpai02/LeetCode/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/bhavyabajpai02/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/bhavyabajpai02/LeetCode/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhavyabajpai02/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/bhavyabajpai02/LeetCode/tree/master/0392-is-subsequence) |
