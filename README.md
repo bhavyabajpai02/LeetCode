@@ -333,6 +333,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0043-multiply-strings](https://github.com/bhavyabajpai02/LeetCode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/bhavyabajpai02/LeetCode/tree/master/0062-unique-paths) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/bhavyabajpai02/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bhavyabajpai02/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhavyabajpai02/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Combinatorics
 |  |
