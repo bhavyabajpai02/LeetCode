@@ -190,6 +190,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0547-number-of-provinces](https://github.com/bhavyabajpai02/LeetCode/tree/master/0547-number-of-provinces) |
 | [0606-construct-string-from-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/bhavyabajpai02/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0684-redundant-connection](https://github.com/bhavyabajpai02/LeetCode/tree/master/0684-redundant-connection) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhavyabajpai02/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -236,6 +237,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0322-coin-change](https://github.com/bhavyabajpai02/LeetCode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/bhavyabajpai02/LeetCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/bhavyabajpai02/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0684-redundant-connection](https://github.com/bhavyabajpai02/LeetCode/tree/master/0684-redundant-connection) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/bhavyabajpai02/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -357,6 +359,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | ------- |
 | [0130-surrounded-regions](https://github.com/bhavyabajpai02/LeetCode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/bhavyabajpai02/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/bhavyabajpai02/LeetCode/tree/master/0684-redundant-connection) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -414,6 +417,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/bhavyabajpai02/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/bhavyabajpai02/LeetCode/tree/master/0684-redundant-connection) |
 ## Binary Lifting
 |  |
 | ------- |
