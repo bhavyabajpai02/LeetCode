@@ -390,6 +390,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/bhavyabajpai02/LeetCode/tree/master/0176-second-highest-salary) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/bhavyabajpai02/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Trie
 |  |
