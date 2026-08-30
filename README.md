@@ -6,6 +6,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/bhavyabajpai02/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/bhavyabajpai02/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -78,6 +79,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/bhavyabajpai02/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/bhavyabajpai02/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/bhavyabajpai02/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0148-sort-list) |
@@ -121,6 +123,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhavyabajpai02/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/bhavyabajpai02/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/bhavyabajpai02/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/bhavyabajpai02/LeetCode/tree/master/0042-trapping-rain-water) |
