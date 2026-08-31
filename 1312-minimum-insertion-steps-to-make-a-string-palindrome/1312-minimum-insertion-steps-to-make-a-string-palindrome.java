@@ -2,17 +2,18 @@ class Solution {
     public int minInsertions(String s) {
         int n = s.length();
         int[][] dp = new int[n][n];
-        for (int len = 2; len <= n; len++) {
-            for (int i = 0; i + len - 1 < n; i++) {
-                int j = i + len - 1;
-                if (s.charAt(i) == s.charAt(j)) {
-                    dp[i][j] = dp[i + 1][j - 1];
-                } 
-                else {
-                    dp[i][j] = 1+ Math.min(dp[i + 1][j],dp[i][j - 1]);
-                }
-            }
+        return solve(s,0,n-1,dp);
+
+    }
+    private int solve(String s, int left, int right, int[][] dp){
+        if(left >= right) return 0;
+        if(dp[left][right] != 0){
+            return dp[left][right];
         }
-        return dp[0][n - 1];
+        if(s.charAt(left) == s.charAt(right)) 
+            dp[left][right] = solve(s,left+1,right-1,dp);
+        else
+            dp[left][right] = 1+ Math.min(solve(s,left+1,right,dp),solve(s,left, right-1, dp));
+        return dp[left][right];
     }
 }
