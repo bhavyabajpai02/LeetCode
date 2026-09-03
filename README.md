@@ -49,6 +49,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/bhavyabajpai02/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [3731-find-missing-elements](https://github.com/bhavyabajpai02/LeetCode/tree/master/3731-find-missing-elements) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -351,6 +352,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/bhavyabajpai02/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bhavyabajpai02/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhavyabajpai02/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Combinatorics
 |  |
 | ------- |
