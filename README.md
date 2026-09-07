@@ -173,6 +173,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0543-diameter-of-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/bhavyabajpai02/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0872-leaf-similar-trees](https://github.com/bhavyabajpai02/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhavyabajpai02/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -201,6 +202,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0606-construct-string-from-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/bhavyabajpai02/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/bhavyabajpai02/LeetCode/tree/master/0684-redundant-connection) |
+| [0872-leaf-similar-trees](https://github.com/bhavyabajpai02/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhavyabajpai02/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -225,6 +227,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0543-diameter-of-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/bhavyabajpai02/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0872-leaf-similar-trees](https://github.com/bhavyabajpai02/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhavyabajpai02/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
