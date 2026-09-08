@@ -355,6 +355,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/bhavyabajpai02/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bhavyabajpai02/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhavyabajpai02/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3870-count-commas-in-range](https://github.com/bhavyabajpai02/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Combinatorics
 |  |
