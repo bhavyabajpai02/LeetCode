@@ -19,6 +19,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0084-largest-rectangle-in-histogram](https://github.com/bhavyabajpai02/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/bhavyabajpai02/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhavyabajpai02/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0120-triangle](https://github.com/bhavyabajpai02/LeetCode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/bhavyabajpai02/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/bhavyabajpai02/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/bhavyabajpai02/LeetCode/tree/master/0135-candy) |
@@ -150,6 +151,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0062-unique-paths](https://github.com/bhavyabajpai02/LeetCode/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/bhavyabajpai02/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/bhavyabajpai02/LeetCode/tree/master/0091-decode-ways) |
+| [0120-triangle](https://github.com/bhavyabajpai02/LeetCode/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/bhavyabajpai02/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/bhavyabajpai02/LeetCode/tree/master/0392-is-subsequence) |
