@@ -45,6 +45,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [1277-count-square-submatrices-with-all-ones](https://github.com/bhavyabajpai02/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bhavyabajpai02/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/bhavyabajpai02/LeetCode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/bhavyabajpai02/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
@@ -80,6 +81,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/bhavyabajpai02/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bhavyabajpai02/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhavyabajpai02/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/bhavyabajpai02/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -340,6 +342,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/bhavyabajpai02/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bhavyabajpai02/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhavyabajpai02/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
@@ -349,6 +352,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0540-single-element-in-a-sorted-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-number-of-matching-subsequences](https://github.com/bhavyabajpai02/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/bhavyabajpai02/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bhavyabajpai02/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -479,6 +483,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bhavyabajpai02/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/bhavyabajpai02/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Monotonic Queue
 |  |
