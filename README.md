@@ -6,6 +6,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/bhavyabajpai02/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/bhavyabajpai02/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/bhavyabajpai02/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -295,6 +296,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhavyabajpai02/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/bhavyabajpai02/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/bhavyabajpai02/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/bhavyabajpai02/LeetCode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/bhavyabajpai02/LeetCode/tree/master/0043-multiply-strings) |
@@ -433,6 +435,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/bhavyabajpai02/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/bhavyabajpai02/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0792-number-of-matching-subsequences](https://github.com/bhavyabajpai02/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 ## Knapsack Problem
