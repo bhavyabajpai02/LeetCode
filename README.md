@@ -431,6 +431,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/bhavyabajpai02/LeetCode/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/bhavyabajpai02/LeetCode/tree/master/0177-nth-highest-salary) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/bhavyabajpai02/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Trie
 |  |
