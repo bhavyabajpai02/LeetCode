@@ -48,6 +48,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bhavyabajpai02/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/bhavyabajpai02/LeetCode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bhavyabajpai02/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/bhavyabajpai02/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/bhavyabajpai02/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
@@ -83,6 +84,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [1110-delete-nodes-and-return-forest](https://github.com/bhavyabajpai02/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bhavyabajpai02/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bhavyabajpai02/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhavyabajpai02/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/bhavyabajpai02/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -314,6 +316,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhavyabajpai02/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavyabajpai02/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bhavyabajpai02/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bhavyabajpai02/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bhavyabajpai02/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/bhavyabajpai02/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/bhavyabajpai02/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
