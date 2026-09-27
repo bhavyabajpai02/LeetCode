@@ -51,6 +51,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bhavyabajpai02/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/bhavyabajpai02/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/bhavyabajpai02/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/bhavyabajpai02/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [3731-find-missing-elements](https://github.com/bhavyabajpai02/LeetCode/tree/master/3731-find-missing-elements) |
@@ -360,6 +361,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0792-number-of-matching-subsequences](https://github.com/bhavyabajpai02/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/bhavyabajpai02/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bhavyabajpai02/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/bhavyabajpai02/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Monotonic Stack
 |  |
 | ------- |
