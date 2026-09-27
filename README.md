@@ -152,6 +152,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0160-intersection-of-two-linked-lists](https://github.com/bhavyabajpai02/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/bhavyabajpai02/LeetCode/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/bhavyabajpai02/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/bhavyabajpai02/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -296,6 +297,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/bhavyabajpai02/LeetCode/tree/master/0402-remove-k-digits) |
+| [0844-backspace-string-compare](https://github.com/bhavyabajpai02/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhavyabajpai02/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavyabajpai02/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bhavyabajpai02/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -321,6 +323,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0606-construct-string-from-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/bhavyabajpai02/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0792-number-of-matching-subsequences](https://github.com/bhavyabajpai02/LeetCode/tree/master/0792-number-of-matching-subsequences) |
+| [0844-backspace-string-compare](https://github.com/bhavyabajpai02/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhavyabajpai02/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavyabajpai02/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bhavyabajpai02/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -349,6 +352,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0043-multiply-strings](https://github.com/bhavyabajpai02/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/bhavyabajpai02/LeetCode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/bhavyabajpai02/LeetCode/tree/master/0289-game-of-life) |
+| [0844-backspace-string-compare](https://github.com/bhavyabajpai02/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/bhavyabajpai02/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/bhavyabajpai02/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Sliding Window
