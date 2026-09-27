@@ -81,6 +81,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0229-majority-element-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhavyabajpai02/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/bhavyabajpai02/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/bhavyabajpai02/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/bhavyabajpai02/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0792-number-of-matching-subsequences](https://github.com/bhavyabajpai02/LeetCode/tree/master/0792-number-of-matching-subsequences) |
@@ -315,6 +316,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0387-first-unique-character-in-a-string](https://github.com/bhavyabajpai02/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/bhavyabajpai02/LeetCode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/bhavyabajpai02/LeetCode/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/bhavyabajpai02/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/bhavyabajpai02/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0606-construct-string-from-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/bhavyabajpai02/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -355,6 +357,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0076-minimum-window-substring](https://github.com/bhavyabajpai02/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0220-contains-duplicate-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/bhavyabajpai02/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/bhavyabajpai02/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bhavyabajpai02/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhavyabajpai02/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
