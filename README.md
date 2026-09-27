@@ -24,6 +24,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0130-surrounded-regions](https://github.com/bhavyabajpai02/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/bhavyabajpai02/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/bhavyabajpai02/LeetCode/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/bhavyabajpai02/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/bhavyabajpai02/LeetCode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/bhavyabajpai02/LeetCode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -78,6 +79,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0138-copy-list-with-random-pointer](https://github.com/bhavyabajpai02/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/bhavyabajpai02/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhavyabajpai02/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/bhavyabajpai02/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhavyabajpai02/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -99,6 +101,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0049-group-anagrams](https://github.com/bhavyabajpai02/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/bhavyabajpai02/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/bhavyabajpai02/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/bhavyabajpai02/LeetCode/tree/master/0179-largest-number) |
 | [0220-contains-duplicate-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0229-majority-element-ii) |
@@ -423,6 +426,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhavyabajpai02/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/bhavyabajpai02/LeetCode/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -474,6 +478,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/bhavyabajpai02/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhavyabajpai02/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/bhavyabajpai02/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -526,5 +531,6 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/bhavyabajpai02/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
