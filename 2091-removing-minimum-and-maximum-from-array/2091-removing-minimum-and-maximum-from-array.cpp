@@ -12,9 +12,7 @@ public:
         }
         if (minIndex > maxIndex)
             swap(minIndex, maxIndex);
-        int fromFront = maxIndex + 1;
-        int fromBack = n - minIndex;
-        int fromBothSides = (minIndex + 1) + (n - maxIndex);
+        int fromFront = maxIndex + 1,fromBack = n - minIndex,fromBothSides = (minIndex + 1) + (n - maxIndex);
         return min({fromFront, fromBack, fromBothSides});
     }
 };
