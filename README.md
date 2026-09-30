@@ -52,6 +52,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bhavyabajpai02/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/bhavyabajpai02/LeetCode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bhavyabajpai02/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/bhavyabajpai02/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/bhavyabajpai02/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -69,6 +70,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0402-remove-k-digits](https://github.com/bhavyabajpai02/LeetCode/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhavyabajpai02/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavyabajpai02/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/bhavyabajpai02/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Hash Table
 |  |
