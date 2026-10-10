@@ -58,6 +58,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/bhavyabajpai02/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/bhavyabajpai02/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/2509-cycle-length-queries-in-a-tree) |
+| [3483-unique-3-digit-even-numbers](https://github.com/bhavyabajpai02/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/bhavyabajpai02/LeetCode/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
@@ -96,6 +97,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bhavyabajpai02/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bhavyabajpai02/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhavyabajpai02/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/bhavyabajpai02/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/bhavyabajpai02/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -296,6 +298,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0024-swap-nodes-in-pairs](https://github.com/bhavyabajpai02/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/bhavyabajpai02/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/bhavyabajpai02/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -546,4 +549,8 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | ------- |
 | [0169-majority-element](https://github.com/bhavyabajpai02/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0229-majority-element-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/bhavyabajpai02/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
