@@ -44,6 +44,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0717-1-bit-and-2-bit-characters](https://github.com/bhavyabajpai02/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-number-of-matching-subsequences](https://github.com/bhavyabajpai02/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/bhavyabajpai02/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0934-shortest-bridge](https://github.com/bhavyabajpai02/LeetCode/tree/master/0934-shortest-bridge) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1110-delete-nodes-and-return-forest](https://github.com/bhavyabajpai02/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1260-shift-2d-grid](https://github.com/bhavyabajpai02/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -238,6 +239,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0617-merge-two-binary-trees](https://github.com/bhavyabajpai02/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/bhavyabajpai02/LeetCode/tree/master/0684-redundant-connection) |
 | [0872-leaf-similar-trees](https://github.com/bhavyabajpai02/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [0934-shortest-bridge](https://github.com/bhavyabajpai02/LeetCode/tree/master/0934-shortest-bridge) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/bhavyabajpai02/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -291,6 +293,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/bhavyabajpai02/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/bhavyabajpai02/LeetCode/tree/master/0684-redundant-connection) |
+| [0934-shortest-bridge](https://github.com/bhavyabajpai02/LeetCode/tree/master/0934-shortest-bridge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/bhavyabajpai02/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -363,6 +366,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0289-game-of-life](https://github.com/bhavyabajpai02/LeetCode/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bhavyabajpai02/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/bhavyabajpai02/LeetCode/tree/master/0463-island-perimeter) |
+| [0934-shortest-bridge](https://github.com/bhavyabajpai02/LeetCode/tree/master/0934-shortest-bridge) |
 | [1260-shift-2d-grid](https://github.com/bhavyabajpai02/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/bhavyabajpai02/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/bhavyabajpai02/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
