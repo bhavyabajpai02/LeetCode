@@ -151,6 +151,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/bhavyabajpai02/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/bhavyabajpai02/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2487-remove-nodes-from-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -310,6 +311,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0024-swap-nodes-in-pairs](https://github.com/bhavyabajpai02/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/bhavyabajpai02/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bhavyabajpai02/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
@@ -327,6 +329,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavyabajpai02/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bhavyabajpai02/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## String
 |  |
 | ------- |
@@ -413,6 +416,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0085-maximal-rectangle](https://github.com/bhavyabajpai02/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/bhavyabajpai02/LeetCode/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavyabajpai02/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2487-remove-nodes-from-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
