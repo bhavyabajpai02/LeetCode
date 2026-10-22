@@ -185,6 +185,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0120-triangle](https://github.com/bhavyabajpai02/LeetCode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bhavyabajpai02/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/bhavyabajpai02/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/bhavyabajpai02/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/bhavyabajpai02/LeetCode/tree/master/0392-is-subsequence) |
@@ -292,6 +293,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0130-surrounded-regions](https://github.com/bhavyabajpai02/LeetCode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/bhavyabajpai02/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/bhavyabajpai02/LeetCode/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/bhavyabajpai02/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/bhavyabajpai02/LeetCode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bhavyabajpai02/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/bhavyabajpai02/LeetCode/tree/master/0463-island-perimeter) |
@@ -427,6 +429,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0043-multiply-strings](https://github.com/bhavyabajpai02/LeetCode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/bhavyabajpai02/LeetCode/tree/master/0062-unique-paths) |
 | [0264-ugly-number-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/bhavyabajpai02/LeetCode/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/bhavyabajpai02/LeetCode/tree/master/0486-predict-the-winner) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/bhavyabajpai02/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bhavyabajpai02/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -504,6 +507,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/bhavyabajpai02/LeetCode/tree/master/0279-perfect-squares) |
 | [0474-ones-and-zeroes](https://github.com/bhavyabajpai02/LeetCode/tree/master/0474-ones-and-zeroes) |
 ## 0-1 Knapsack
 |  |
@@ -590,4 +594,8 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/bhavyabajpai02/LeetCode/tree/master/0486-predict-the-winner) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/bhavyabajpai02/LeetCode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
