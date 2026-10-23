@@ -37,6 +37,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0463-island-perimeter](https://github.com/bhavyabajpai02/LeetCode/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/bhavyabajpai02/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/bhavyabajpai02/LeetCode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/bhavyabajpai02/LeetCode/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/bhavyabajpai02/LeetCode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bhavyabajpai02/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -130,6 +131,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0022-generate-parentheses](https://github.com/bhavyabajpai02/LeetCode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/bhavyabajpai02/LeetCode/tree/master/0494-target-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -191,6 +193,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0392-is-subsequence](https://github.com/bhavyabajpai02/LeetCode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/bhavyabajpai02/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/bhavyabajpai02/LeetCode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/bhavyabajpai02/LeetCode/tree/master/0494-target-sum) |
 | [0792-number-of-matching-subsequences](https://github.com/bhavyabajpai02/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [1162-as-far-from-land-as-possible](https://github.com/bhavyabajpai02/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/bhavyabajpai02/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -509,10 +512,12 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | ------- |
 | [0279-perfect-squares](https://github.com/bhavyabajpai02/LeetCode/tree/master/0279-perfect-squares) |
 | [0474-ones-and-zeroes](https://github.com/bhavyabajpai02/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/bhavyabajpai02/LeetCode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/bhavyabajpai02/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/bhavyabajpai02/LeetCode/tree/master/0494-target-sum) |
 ## Manacher
 |  |
 | ------- |
