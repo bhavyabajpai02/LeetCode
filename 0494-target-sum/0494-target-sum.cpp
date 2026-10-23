@@ -1,18 +1,19 @@
 class Solution {
 public:
-    void solve(int& count, vector<int>&nums,int i, int sum, int n, int target){
-        if(i >= n) {
-        if(sum == target){
-            count++;
+    int solve(vector<int>&nums,int i, int sum, int n, int target,map<pair<int,int>,int>&dp){
+        if(i == n) {
+            return sum == target;
         }
-        return;
+        if(dp.count({i,sum})){
+            return dp[{i,sum}];
         }
-        solve(count,nums,i+1,sum+nums[i],nums.size(),target);
-        solve(count,nums,i+1,sum-nums[i],nums.size(),target);        
+        int plus = solve(nums,i+1,sum+nums[i],nums.size(),target,dp);
+        int minus = solve(nums,i+1,sum-nums[i],nums.size(),target,dp); 
+        return dp[{i,sum}] = plus+minus;      
     }
     int findTargetSumWays(vector<int>& nums, int target) {
-        int count = 0;
-        solve(count,nums,0,0,nums.size(),target);
-        return count;
+        map<pair<int,int>,int>dp;
+        return solve(nums,0,0,nums.size(),target,dp);
+        // return count;
     }
 };
