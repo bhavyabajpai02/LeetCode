@@ -55,6 +55,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [1331-rank-transform-of-an-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bhavyabajpai02/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/bhavyabajpai02/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/bhavyabajpai02/LeetCode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bhavyabajpai02/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/bhavyabajpai02/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -201,6 +202,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [1162-as-far-from-land-as-possible](https://github.com/bhavyabajpai02/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/bhavyabajpai02/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bhavyabajpai02/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/bhavyabajpai02/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/bhavyabajpai02/LeetCode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 ## Tree
 |  |
