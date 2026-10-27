@@ -82,6 +82,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavyabajpai02/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/bhavyabajpai02/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/bhavyabajpai02/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/bhavyabajpai02/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Hash Table
 |  |
@@ -110,6 +111,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [2225-find-players-with-zero-or-one-losses](https://github.com/bhavyabajpai02/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2747-count-zero-request-servers](https://github.com/bhavyabajpai02/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhavyabajpai02/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/bhavyabajpai02/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bhavyabajpai02/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/bhavyabajpai02/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -348,6 +350,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bhavyabajpai02/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/bhavyabajpai02/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/bhavyabajpai02/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## String
 |  |
 | ------- |
@@ -381,6 +384,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/bhavyabajpai02/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/bhavyabajpai02/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhavyabajpai02/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/bhavyabajpai02/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Matrix
 |  |
 | ------- |
@@ -504,6 +508,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0506-relative-ranks](https://github.com/bhavyabajpai02/LeetCode/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/bhavyabajpai02/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/bhavyabajpai02/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Database
 |  |
 | ------- |
