@@ -69,6 +69,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [2747-count-zero-request-servers](https://github.com/bhavyabajpai02/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bhavyabajpai02/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/bhavyabajpai02/LeetCode/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
 |  |
@@ -456,6 +457,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bhavyabajpai02/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhavyabajpai02/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/bhavyabajpai02/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/bhavyabajpai02/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Combinatorics
