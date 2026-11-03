@@ -206,6 +206,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0486-predict-the-winner](https://github.com/bhavyabajpai02/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/bhavyabajpai02/LeetCode/tree/master/0494-target-sum) |
 | [0792-number-of-matching-subsequences](https://github.com/bhavyabajpai02/LeetCode/tree/master/0792-number-of-matching-subsequences) |
+| [1143-longest-common-subsequence](https://github.com/bhavyabajpai02/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/bhavyabajpai02/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/bhavyabajpai02/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bhavyabajpai02/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -380,6 +381,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhavyabajpai02/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/bhavyabajpai02/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavyabajpai02/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/bhavyabajpai02/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bhavyabajpai02/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bhavyabajpai02/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bhavyabajpai02/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -635,4 +637,8 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/bhavyabajpai02/LeetCode/tree/master/0207-course-schedule) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/bhavyabajpai02/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
