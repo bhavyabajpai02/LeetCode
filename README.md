@@ -47,6 +47,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0792-number-of-matching-subsequences](https://github.com/bhavyabajpai02/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/bhavyabajpai02/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0934-shortest-bridge](https://github.com/bhavyabajpai02/LeetCode/tree/master/0934-shortest-bridge) |
+| [0994-rotting-oranges](https://github.com/bhavyabajpai02/LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhavyabajpai02/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1110-delete-nodes-and-return-forest](https://github.com/bhavyabajpai02/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1162-as-far-from-land-as-possible](https://github.com/bhavyabajpai02/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
@@ -323,6 +324,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0684-redundant-connection](https://github.com/bhavyabajpai02/LeetCode/tree/master/0684-redundant-connection) |
 | [0934-shortest-bridge](https://github.com/bhavyabajpai02/LeetCode/tree/master/0934-shortest-bridge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/bhavyabajpai02/LeetCode/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/bhavyabajpai02/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/bhavyabajpai02/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -402,6 +404,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0417-pacific-atlantic-water-flow](https://github.com/bhavyabajpai02/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/bhavyabajpai02/LeetCode/tree/master/0463-island-perimeter) |
 | [0934-shortest-bridge](https://github.com/bhavyabajpai02/LeetCode/tree/master/0934-shortest-bridge) |
+| [0994-rotting-oranges](https://github.com/bhavyabajpai02/LeetCode/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/bhavyabajpai02/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/bhavyabajpai02/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/bhavyabajpai02/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
