@@ -266,6 +266,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0606-construct-string-from-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/bhavyabajpai02/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/bhavyabajpai02/LeetCode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/bhavyabajpai02/LeetCode/tree/master/0743-network-delay-time) |
 | [0872-leaf-similar-trees](https://github.com/bhavyabajpai02/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0934-shortest-bridge](https://github.com/bhavyabajpai02/LeetCode/tree/master/0934-shortest-bridge) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -324,6 +325,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/bhavyabajpai02/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/bhavyabajpai02/LeetCode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/bhavyabajpai02/LeetCode/tree/master/0743-network-delay-time) |
 | [0934-shortest-bridge](https://github.com/bhavyabajpai02/LeetCode/tree/master/0934-shortest-bridge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhavyabajpai02/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/bhavyabajpai02/LeetCode/tree/master/0994-rotting-oranges) |
@@ -519,6 +521,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0264-ugly-number-ii](https://github.com/bhavyabajpai02/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0506-relative-ranks](https://github.com/bhavyabajpai02/LeetCode/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/bhavyabajpai02/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0743-network-delay-time](https://github.com/bhavyabajpai02/LeetCode/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavyabajpai02/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/bhavyabajpai02/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Database
@@ -567,6 +570,7 @@ This repository is regularly updated with all the LeetCode problems I solve star
 | [0207-course-schedule](https://github.com/bhavyabajpai02/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/bhavyabajpai02/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/bhavyabajpai02/LeetCode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/bhavyabajpai02/LeetCode/tree/master/0743-network-delay-time) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -648,4 +652,12 @@ This repository is regularly updated with all the LeetCode problems I solve star
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/bhavyabajpai02/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/bhavyabajpai02/LeetCode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/bhavyabajpai02/LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
